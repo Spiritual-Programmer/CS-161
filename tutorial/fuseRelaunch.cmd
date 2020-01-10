@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "/home/csmajs/ksing014/tutorial/fulladder_tb_isim_beh.exe" -prj "/home/csmajs/ksing014/tutorial/fulladder_tb_beh.prj" "work.fulladder_tb" "work.glbl" 

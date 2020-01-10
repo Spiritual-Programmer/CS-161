@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/csmajs/ksing014/tutorial/fulladder.xst" -ofn "/home/csmajs/ksing014/tutorial/fulladder.syr" 
