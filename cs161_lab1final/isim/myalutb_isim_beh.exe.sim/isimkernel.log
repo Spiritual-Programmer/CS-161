@@ -1,0 +1,10 @@
+Command line:
+   myalutb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  2
+     -socket  53990
+
+Fri Jan 17 14:15:57 2020
+
+
+ Elaboration Time: 0.02 sec

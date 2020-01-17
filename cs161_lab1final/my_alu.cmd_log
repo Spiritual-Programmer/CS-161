@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/csmajs/ksing014/Desktop/CS-161/cs161_lab1final/my_alu.xst" -ofn "/home/csmajs/ksing014/Desktop/CS-161/cs161_lab1final/my_alu.syr" 
+xst -intstyle ise -ifn "/home/csmajs/ksing014/Desktop/CS-161/cs161_lab1final/my_alu.xst" -ofn "/home/csmajs/ksing014/Desktop/CS-161/cs161_lab1final/my_alu.syr" 

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "/home/csmajs/ksing014/Desktop/CS-161/cs161_lab1final/myalutb_isim_beh.exe" -prj "/home/csmajs/ksing014/Desktop/CS-161/cs161_lab1final/myalutb_beh.prj" "work.myalutb" "work.glbl" 
